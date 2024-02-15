@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m a multi-systems engineer who is currently working on Flutter and Flutterflow projects. 
+🔭 I’m a mechatronics engineer and software developer who is currently working on Flutter and Flutterflow projects. 
 - 🌱 I’m currently learning Python since I have some very interesting projects that I want to see the light of day.
 - 👯 I’m looking to collaborate on Flutter and automation projects.
 - 🤔 I’m looking for help with open-source projects.
