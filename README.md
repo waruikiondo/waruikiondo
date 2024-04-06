@@ -1,7 +1,11 @@
 ### Hi there, I am Warui 👋 
 
-Bio
+![IMG_6893](https://github.com/waruikiondo/waruikiondo/assets/90588823/483e4bc5-010b-414d-af95-15fb61e70543)
+
+
 I am a software developer specializing in flutter development. I am experienced in other languages such as C#, C++ and Javascript. Furthermore, I love to tinker with no-code tools such as Bubble and Flutterflow. Welcome to my world 🌏🗺⛰
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=waruikiondo)](https://git.io/streak-stats)
 
 
 - 🌱 I’m currently learning Python since I have some very interesting projects that I want to see the light of day.
