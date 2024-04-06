@@ -5,7 +5,7 @@
 
 I am a software developer specializing in flutter development. I am experienced in other languages such as C#, C++ and Javascript. Furthermore, I love to tinker with no-code tools such as Bubble and Flutterflow. When I am not creating software, I am outside in Nature exploring. Welcome to my world 🌏🗺⛰
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=waruikiondo)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=waruikiondo&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 - 🌱 I’m currently learning Python since I have some very interesting projects that I want to see the light of day.
