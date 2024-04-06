@@ -14,7 +14,8 @@ I am a software developer specializing in flutter development. I am experienced 
 - 💬 Ask me about Flutter and Python.
 - 📫 How to reach me: email me at waruikiondo@gmail.com.
 
-- ![Github Trophy](https://github-profile-trophy.vercel.app/?username=waruikiondo&theme=discord)
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
 **waruikiondo/waruikiondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
