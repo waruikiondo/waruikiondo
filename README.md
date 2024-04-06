@@ -2,8 +2,12 @@
 
 ![IMG_6893](https://github.com/waruikiondo/waruikiondo/assets/90588823/483e4bc5-010b-414d-af95-15fb61e70543)
 
-
+##Bio
 I am a software developer specializing in flutter development. I am experienced in other languages such as C#, C++ and Javascript. Furthermore, I love to tinker with no-code tools such as Bubble and Flutterflow. When I am not creating software, I am outside in Nature exploring. Welcome to my world 🌏🗺⛰
+
+<a href="https://github.com/codemaker2015/codemaker2015">
+    <img src="https://komarev.com/ghpvc/?username=waruikiondo&color=red" alt="profile views" />
+  </a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=waruikiondo&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
