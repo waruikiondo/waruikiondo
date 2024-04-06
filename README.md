@@ -7,12 +7,7 @@ I am a software developer specializing in flutter development. I am experienced 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=waruikiondo&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-
-- 🌱 I’m currently learning Python since I have some very interesting projects that I want to see the light of day.
-- 👯 I’m looking to collaborate on Flutter and automation projects.
-- 🤔 I’m looking for help with open-source projects.
-- 💬 Ask me about Flutter and Python.
-- 📫 How to reach me: email me at waruikiondo@gmail.com.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waruikiondo&show_icons=true&theme=radical)
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
